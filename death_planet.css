@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Lemonada');
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+body {
+    background-color: #3524a1;
+    color: #fff1a1;
+    font-family: Lemonada, cursive;
+    font-size: 20px;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 37px;
+    font-family: Audiowide, monospace;
+    border-color: #33c3d6;
+    border-style: ridge;
+    text-align: center;
+    background-color: #321515;
+}
+
+h3 {
+    font-size: 30px;
+}
+footer {
+    font-size: 15px;
+    text-align: center;
+    border-color: #112131;
+    border-style: groove;
+}
