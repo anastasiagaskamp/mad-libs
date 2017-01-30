@@ -1,3 +1,4 @@
+alert("Hello! This will guide you through a series of popups that will gather the information for the game. It will then put this information into the actual thing.");
 /*Declaring your variables
 Otherwise known as a bunch of popup windows :0*/
 var name = prompt("What's your name?");
@@ -12,7 +13,7 @@ var liquid = prompt("A liquid-like substance: ");
 var character = prompt("A character from a book, movie, show, or something else:");
 var food = prompt("Something you like to eat");
 //The actual story...
-alert("Hello! This will guide you through a series of popups that will gather the information for the game. It will then put this information into the actual thing.");
+
 document.write("Hello, " + name + ". Today, you and " + brother + " are going to the statue of " + monument + ". ");
 
 document.write("Here, it will be painted " + color + " by a\(n\) " + pet + ". This animal is also " + color + ". ");
