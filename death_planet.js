@@ -1,4 +1,4 @@
-alert("Hello! This will guide you through a series of popups that will gather the information for the game. It will then put this information into the actual thing.");
+
 /*Declaring your variables
 Otherwise known as a bunch of popup windows :0*/
 var name = prompt("What's your name?");
