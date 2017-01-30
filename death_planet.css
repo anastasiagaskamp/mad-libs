@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Lemonada');
-@import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Barrio');
 body {
     background-color: #3524a1;
     color: #fff1a1;
-    font-family: Lemonada, cursive;
+    font-family: "Josefin Sans", sans-serif;
     font-size: 20px;
     margin: 20px auto;
     max-width: 600px;
@@ -11,7 +11,7 @@ body {
 
 h1 {
     font-size: 37px;
-    font-family: Audiowide, monospace;
+    font-family: Barrio, monospace;
     border-color: #33c3d6;
     border-style: ridge;
     text-align: center;
@@ -21,9 +21,10 @@ h1 {
 h3 {
     font-size: 30px;
 }
+
 footer {
     font-size: 15px;
     text-align: center;
     border-color: #112131;
     border-style: groove;
-}
+} /*ONLY THIRTY TOTAL LINES. WITH NEATNESS.*/
