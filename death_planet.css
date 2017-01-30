@@ -4,9 +4,12 @@ body {
     background-color: #3524a1;
     color: #fff1a1;
     font-family: "Josefin Sans", sans-serif;
-    font-size: 20px;
+    font-size: 30px;
     margin: 20px auto;
     max-width: 600px;
+    line-height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 h1 {
@@ -19,12 +22,18 @@ h1 {
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 20px;
 }
 
 footer {
     font-size: 15px;
     text-align: center;
-    border-color: #112131;
-    border-style: groove;
-} /*ONLY THIRTY TOTAL LINES. WITH NEATNESS.*/
+}
+
+a {
+    color: chartreuse;
+}
+
+a:hover {
+    color: ivory;
+}
